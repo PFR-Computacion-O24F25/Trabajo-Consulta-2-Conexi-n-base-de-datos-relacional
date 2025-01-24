@@ -52,7 +52,7 @@ Doobie es una librería más cercana al estándar JDBC, pero con un enfoque func
   
 - **Doobie** es perfecto para quienes buscan un enfoque más funcional y directo al trabajar con bases de datos, utilizando SQL puro y control total sobre la conexión y transacciones.
 
-###Referencias
+### Referencias
 
 - definición-de-jdbc. (s. f.). ProgramaciónPro. Recuperado 23 de enero de 2025, de https://programacionpro.com/que-es-jdbc-en-base-de-datos-y-por-que-es-importante/
 
